@@ -1,5 +1,5 @@
 {
-  "name": "-goit-typescript-hw-01",
+  "name": "goit-typescript-hw-01",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "typescript": "^5.2.2",
+    "typescript": "^5.5.2",
     "vite": "^5.2.0"
   }
 }
